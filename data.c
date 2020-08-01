@@ -5,7 +5,7 @@ main()
 	int a,b,c;
 	clrscr();
 	a=130;
-	b=20;
+	b=220;
 	if (a>b)
 	{
 		print("a is big")
